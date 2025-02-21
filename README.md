@@ -2,7 +2,14 @@
 
 ###
 
-<img align="left" height="140" src="https://media.giphy.com/media/cb9aF9tDyiRkYbz3BX/giphy.gif?cid=790b76112koerrndmyivia74r3vhv82wlviw6tlo2jrki9f6&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theuscirilo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theuscirilo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="140" src="https://media.giphy.com/media/cb9aF9tDyiRkYbz3BX/giphy.gif?cid=790b76112koerrndmyivia74r3vhv82wlviw6tlo2jrki9f6&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -29,6 +36,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/theuscirilo/theuscirilo/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="left">Hello World!!</p>
 
 ###
@@ -46,6 +59,13 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theuscirilo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theuscirilo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
