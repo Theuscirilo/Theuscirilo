@@ -1,4 +1,4 @@
-<h2 align="left">Matheus Cirilo de Almeida<br>Engenheiro de Software 🚀</h2>
+<h1 align="left">Matheus Cirilo de Almeida<br>Engenheiro de Software 🚀</h1>
 
 ###
 
@@ -11,7 +11,7 @@
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/25ba09b1334f66c8f5d9b6d8641b0f3385cf2c881fa08a305a59c4ab1c6f356a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f63623961463974447969526b59627a3342582f67697068792e6769663f6369643d3739306237363131326b6f6572726e646d7969766961373472337668763832776c76697736746c6f326a726b693966362665703d76315f676966735f736561726368267269643d67697068792e6769662663743d67"  />
 
-###
+### Tecnologias que uso no meu dia
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
+### Sociais | Contato
 
 <div align="left">
   <a href="https://www.instagram.com/theusscirilo_/" target="_blank">
